@@ -39,7 +39,7 @@ SideMate **ücretsizdir**. Kapalı kaynaklı bir uygulamadır; kullanım koşull
 | Sistem | Dosya |
 |---|---|
 | Windows 10 / 11 (64 bit) | [SideMate Windows kurulumu (.exe)](https://github.com/sagentiq/sidemate-releases/releases/latest) |
-| macOS 11 ve üzeri (Apple Silicon: M1 ve sonrası) | [SideMate Mac disk görüntüsü (.dmg)](https://github.com/sagentiq/sidemate-releases/releases/latest) |
+| macOS 11 ve üzeri (Apple Silicon: M1 ve sonrası) | [SideMate Mac disk görüntüsü (.dmg)](https://github.com/sagentiq/sidemate-releases/releases/download/v0.3.4/SideMate_0.3.4_aarch64.dmg) |
 
 Sayfadaki **Assets** bölümünde `x64-setup.exe` Windows için, `aarch64.dmg` Mac içindir.
 
@@ -93,7 +93,7 @@ SideMate is **free to use**. It is a closed-source application; the terms are in
 | System | File |
 |---|---|
 | Windows 10 / 11 (64-bit) | [SideMate installer for Windows (.exe)](https://github.com/sagentiq/sidemate-releases/releases/latest) |
-| macOS 11 or later (Apple Silicon: M1 and later) | [SideMate disk image for Mac (.dmg)](https://github.com/sagentiq/sidemate-releases/releases/latest) |
+| macOS 11 or later (Apple Silicon: M1 and later) | [SideMate disk image for Mac (.dmg)](https://github.com/sagentiq/sidemate-releases/releases/download/v0.3.4/SideMate_0.3.4_aarch64.dmg) |
 
 In the **Assets** section, `x64-setup.exe` is for Windows and `aarch64.dmg` is for Mac.
 
