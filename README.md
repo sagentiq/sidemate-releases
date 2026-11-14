@@ -21,6 +21,8 @@
 
 SideMate, bilgisayarınızda yanınızda duran sesli bir çalışma arkadaşıdır. Ona konuşarak iş verirsiniz; dinler, düşünür, sesli yanıt verir ve uzun işleri arka planda sizin yerinize yürütür. Kendi adı, kişiliği ve hafızası olan birden fazla karakter oluşturabilirsiniz.
 
+SideMate **ücretsizdir**. Kapalı kaynaklı bir uygulamadır; kullanım koşulları [SideMate Ücretsiz Kullanım Lisansı](docs/EULA.tr.md) içindedir.
+
 ### Neler yapar
 
 - **Sesli toplantı:** Konuşarak anlatın, araya girip sözünü kesin. Kararlar, yapılacaklar ve hafızaya alınanlar toplantı boyunca not edilir.
@@ -37,7 +39,7 @@ SideMate, bilgisayarınızda yanınızda duran sesli bir çalışma arkadaşıd�
 | Sistem | Dosya |
 |---|---|
 | Windows 10 / 11 (64 bit) | [SideMate Windows kurulumu (.exe)](https://github.com/sagentiq/sidemate-releases/releases/latest) |
-| macOS (Apple Silicon: M1 ve sonrası) | [SideMate Mac disk görüntüsü (.dmg)](https://github.com/sagentiq/sidemate-releases/releases/latest) |
+| macOS 11 ve üzeri (Apple Silicon: M1 ve sonrası) | [SideMate Mac disk görüntüsü (.dmg)](https://github.com/sagentiq/sidemate-releases/releases/latest) |
 
 Sayfadaki **Assets** bölümünde `x64-setup.exe` Windows için, `aarch64.dmg` Mac içindir.
 
@@ -59,6 +61,10 @@ Sayfadaki **Assets** bölümünde `x64-setup.exe` Windows için, `aarch64.dmg` M
 - Mikrofon. Kulaklık önerilir.
 - İlk kurulumda ses modelleri için birkaç GB boş alan ve internet bağlantısı.
 
+### Lisans
+
+SideMate'i ücretsiz kullanabilirsiniz. Kurulum sihirbazı lisans metnini gösterir ve onayınızı ister; metne uygulamadaki **Hakkında** sayfasından da ulaşırsınız. Yazılım kapalı kaynaklıdır: kopyalanamaz, değiştirilemez, yeniden dağıtılamaz. Tam metin: [Türkçe](docs/EULA.tr.md).
+
 ### Gizlilik
 
 Ses tanıma ve seslendirme bilgisayarınızda çalışır. Konuşmalarınız, hafıza ve toplantı kayıtları yalnız kendi bilgisayarınızda saklanır. Asistanın düşünmesi için gereken istekler, kendi Claude hesabınız üzerinden gider.
@@ -68,6 +74,8 @@ Ses tanıma ve seslendirme bilgisayarınızda çalışır. Konuşmalarınız, ha
 ## English
 
 SideMate is a voice-first work companion that lives on your desktop. You give it work by talking; it listens, thinks, answers out loud, and runs longer tasks in the background for you. You can create several characters, each with its own name, personality and memory.
+
+SideMate is **free to use**. It is a closed-source application; the terms are in the [SideMate Free Use License](docs/EULA.en.md).
 
 ### What it does
 
@@ -85,7 +93,7 @@ SideMate is a voice-first work companion that lives on your desktop. You give it
 | System | File |
 |---|---|
 | Windows 10 / 11 (64-bit) | [SideMate installer for Windows (.exe)](https://github.com/sagentiq/sidemate-releases/releases/latest) |
-| macOS (Apple Silicon: M1 and later) | [SideMate disk image for Mac (.dmg)](https://github.com/sagentiq/sidemate-releases/releases/latest) |
+| macOS 11 or later (Apple Silicon: M1 and later) | [SideMate disk image for Mac (.dmg)](https://github.com/sagentiq/sidemate-releases/releases/latest) |
 
 In the **Assets** section, `x64-setup.exe` is for Windows and `aarch64.dmg` is for Mac.
 
@@ -106,6 +114,10 @@ In the **Assets** section, `x64-setup.exe` is for Windows and `aarch64.dmg` is f
 - An active Claude subscription and **Claude Code** signed in on your computer. The setup checks this and guides you if anything is missing.
 - A microphone. Headphones are recommended.
 - A few GB of free space and an internet connection for the voice models during first setup.
+
+### License
+
+SideMate is free to use. The setup wizard shows the license and asks for your acceptance; you can also read it on the **About** page in the app. The software is closed source: it may not be copied, modified or redistributed. Full text: [English](docs/EULA.en.md).
 
 ### Privacy
 
@@ -130,5 +142,5 @@ Speech recognition and voice synthesis run on your computer. Conversations, memo
 
 <div align="center">
 <sub>Kurulum dosyaları ve güncelleme bildirimi bu depoda yayınlanır. · Installers and the update feed are published from this repository.</sub><br>
-<sub>© 2026 SAGENTIQ LTD</sub>
+<sub>© 2026 SAGENTIQ LTD. Tüm hakları saklıdır. · All rights reserved.</sub>
 </div>
